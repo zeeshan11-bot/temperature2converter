@@ -1,0 +1,27 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            background-color: #007BFF;
+        }
+        label {
+            font-weight: bold;
+        }
+        input {
+            padding: 5px;
+            margin: 5px;
+        }
+        button {
+            padding: 5px 10px;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        p {
+            font-weight: bold;
+            margin: 10px 0;
+        }
